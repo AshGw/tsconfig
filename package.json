@@ -22,5 +22,6 @@
 		"typescript",
 		"ts",
 		"configuration"
-	]
+	],
+	"packageManager": "pnpm@8.14.0"
 }
