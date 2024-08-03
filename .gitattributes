@@ -1,0 +1,4 @@
+* text=auto eol=lf
+**/tsconfig.json linguist-language=jsonc
+**/tsconfig.*.json linguist-language=jsonc
+/.vscode/*.json linguist-language=jsonc

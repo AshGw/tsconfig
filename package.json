@@ -1,0 +1,26 @@
+{
+	"name": "@ashgw/tsconfig",
+	"version": "0.0.1",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": "ashgw/tsconfig",
+	"author": {
+		"name": "Ashref Gwader",
+		"email": "contact@ashgw.me",
+		"url": "https://ashgw.me"
+	},
+	"exports": "./tsconfig.json",
+	"sideEffects": false,
+	"engines": {
+		"node": ">=18"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"configuration"
+	]
+}
