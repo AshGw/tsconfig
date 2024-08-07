@@ -32,10 +32,5 @@
     "strict": true,
     "target": "ESNext",
     "useUnknownInCatchVariables": true,
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./src/*"]
-    }
   },
-  "exclude": ["dist/"]
 }
