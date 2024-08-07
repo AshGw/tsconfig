@@ -1,6 +1,6 @@
 {
 	"name": "@ashgw/tsconfig",
-	"version": "0.0.1",
+	"version": "0.2.0",
 	"description": "Shared TypeScript config for my projects",
 	"license": "MIT",
 	"repository": "ashgw/tsconfig",
@@ -23,5 +23,8 @@
 		"ts",
 		"configuration"
 	],
-	"packageManager": "pnpm@8.14.0"
+	"packageManager": "pnpm@8.14.0",
+	"devDependencies": {
+		"@ashgw/tsconfig": "0.0.1"
+	}
 }
