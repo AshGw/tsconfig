@@ -1,27 +1,27 @@
 {
-	"name": "@ashgw/tsconfig",
-	"version": "0.5.0",
-	"description": "Shared TypeScript config for my projects",
-	"license": "MIT",
-	"repository": "ashgw/tsconfig",
-	"author": {
-		"name": "Ashref Gwader",
-		"email": "contact@ashgw.me",
-		"url": "https://ashgw.me"
-	},
-	"exports": "./tsconfig.json",
-	"sideEffects": false,
-	"engines": {
-		"node": ">=18"
-	},
-	"files": [
-		"tsconfig.json"
-	],
-	"keywords": [
-		"tsconfig",
-		"typescript",
-		"ts",
-		"configuration"
-	],
-	"packageManager": "pnpm@8.14.0"
+  "name": "@ashgw/tsconfig",
+  "version": "0.5.0",
+  "description": "Shared TypeScript config for my projects",
+  "license": "MIT",
+  "repository": "ashgw/tsconfig",
+  "author": {
+    "name": "Ashref Gwader",
+    "email": "contact@ashgw.me",
+    "url": "https://ashgw.me"
+  },
+  "exports": "./tsconfig.json",
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "configuration"
+  ],
+  "packageManager": "pnpm@8.14.0"
 }
